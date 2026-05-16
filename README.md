@@ -60,14 +60,8 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 
-## 🪪 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🌎 View Demo
 
 Live Demo: [https://samrat-minecraft.vercel.app/](https://samrat-minecraft.vercel.app)
 
-## 📞 Contact
-
-Your Name - [Samrat Sadhu](https://samrat-sadhu-portfolio.vercel.app/) - ss2414@ece.jgec.ac.in
