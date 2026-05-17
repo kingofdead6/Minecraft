@@ -63,5 +63,5 @@ Don't forget to give the project a star! Thanks again!
 
 ## 🌎 View Demo
 
-Live Demo: [https://samrat-minecraft.vercel.app/](https://samrat-minecraft.vercel.app)
+Live Demo: [https://minecraft-beta-six.vercel.app/](https://minecraft-beta-six.vercel.app/)
 
