@@ -31,35 +31,6 @@ Minicraft is a simplified and primitive version of Minecraft built with Next.js,
 - [Tailwind](https://tailwindcss.com/)
 - [ThreeJs](https://threejs.org/)
 
-## Installation
-
-_Follow the following steps to install and setup the virtual environment._
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Samrat-14/minecraft-v2.git
-   ```
-2. Once inside the cloned repo, get started with installing the node modules.
-   ```sh
-   npm install
-   ```
-3. Start the server for frontend.
-   ```sh
-   npm run dev
-   ```
-4. After the installments are over and the server is running, you can get started with the project.
-
-## Contributing
-
-I love contributions, so please feel free to fix bugs, improve things, provide documentation.
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-
 
 ## 🌎 View Demo
 
